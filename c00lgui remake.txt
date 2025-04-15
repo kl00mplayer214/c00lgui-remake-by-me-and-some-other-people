@@ -29565,7 +29565,7 @@ button = Instance.new("TextButton")
 	button.ZIndex = 2
 	button.Font = tef
 	button.FontSize = "Size14"
-	button.Text = "jumpstyle mus (change music pitch to 1,0.9 or 0.8)"
+	button.Text = "jumpstyle mus (pitch: 1,0.9)"
 	button.TextColor3 = whit
 	button.TextWrapped = true
 	button.MouseButton1Down:connect(function()
@@ -29583,7 +29583,7 @@ button = Instance.new("TextButton")
 	button.ZIndex = 2
 	button.Font = tef
 	button.FontSize = "Size14"
-	button.Text = "Theme (change music pitch to 0.20,0.15 or 0.19)"
+	button.Text = "Theme (pitch: 0.20,0.15/0.19"
 	button.TextColor3 = whit
 	button.TextWrapped = true
 	button.MouseButton1Down:connect(function()
@@ -29601,7 +29601,7 @@ button = Instance.new("TextButton")
 	button.ZIndex = 2
 	button.Font = tef
 	button.FontSize = "Size14"
-	button.Text = "Horror Scream (change muisc pitch to 1)"
+	button.Text = "Scream (pitch: 1)"
 	button.TextColor3 = whit
 	button.TextWrapped = true
 	button.MouseButton1Down:connect(function()
@@ -29619,7 +29619,7 @@ button = Instance.new("TextButton")
 	button.ZIndex = 2
 	button.Font = tef
 	button.FontSize = "Size14"
-	button.Text = "not jumpstyle (change music pitch to 1,0.9 or 0.8)"
+	button.Text = "not jstyle (pitch: 1,0.9)"
 	button.TextColor3 = whit
 	button.TextWrapped = true
 	button.MouseButton1Down:connect(function()
